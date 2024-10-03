@@ -21,7 +21,7 @@ import {
   Colors,
   DebugInstructions,
   Header,
-  LearnMoreLinks,
+  LearnMoreLinks,     
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
